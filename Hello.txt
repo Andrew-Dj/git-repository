@@ -1,0 +1,4 @@
+print("Welcome")
+print("How do you do")
+print("It is allright")
+print("Hello")
